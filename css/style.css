@@ -444,6 +444,7 @@ main .content .market table td {
   opacity: 0.7;
 }
 main .content .market table .positive {
+  opacity: 1;
   color: #1ecb4f;
 }
 main .content .market table td:nth-of-type(1) {
