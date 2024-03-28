@@ -493,7 +493,7 @@ main .content .market button {
   aside nav {
     padding: 2rem 0;
   }
-  aside nav > div:nth-child(1) {
+  aside nav > div {
     display: flex;
     flex-direction: column;
     align-items: center;
